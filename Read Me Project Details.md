@@ -19,9 +19,7 @@ Here we can provide a technology which can calculate the companies credit rating
 Overall we are giving a two way service to the customers, One, with providing a credit rank with their own data and Two, we can provide a credit
 
 
- THE WOLF OF WALL STREET
- 
-rating of the Fortune 500 companies which will analyse and provide outputs for the customers to understand more about their market and competition.
+ THE WOLF OF WALL STREET - rating of the Fortune 500 companies which will analyse and provide outputs for the customers to understand more about their market and competition.
 Project Limitations
 For the purpose of the project there are going to be few limitations such as,
 • The credit rating would be from the details provided, it won’t be 100% accurate as the credit rating changes from market to market, but it could give a clear idea of the company’s position in the market
